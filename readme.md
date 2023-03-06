@@ -1,1 +1,5 @@
-Simple Express CRUD with ES6 syntax
+- Simple Express CRUD with ES6 syntax
+- Using [.mjs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) extension
+- Using express router
+- Using [Type ORM](https://typeorm.io/) with Sqlite
+- Logging with Pino
